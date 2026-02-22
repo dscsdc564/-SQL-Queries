@@ -1,4 +1,4 @@
-# -SQL-Queries
+# SQL-Queries
 
 This repository contains sample employee datasets in tabular format, ideal for practicing data analysis, SQL queries, data cleaning, and visualization techniques. The datasets include various attributes such as employee ID, name, age, department, city, and salary. These samples are useful for learning how to handle real-world data inconsistencies, missing values, and performing departmental analysis.
 
